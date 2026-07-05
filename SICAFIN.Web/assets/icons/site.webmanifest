@@ -1,0 +1,8 @@
+{
+  "name": "SICAFIN",
+  "short_name": "SICAFIN",
+  "icons": [{"src": "favicon.ico", "sizes": "48x48 72x72 96x96", "type": "image/x-icon"}],
+  "theme_color": "#0B3D5C",
+  "background_color": "#F4F8FB",
+  "display": "standalone"
+}

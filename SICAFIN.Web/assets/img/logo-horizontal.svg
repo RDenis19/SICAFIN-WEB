@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="180" viewBox="0 0 760 180" role="img" aria-labelledby="title desc">
+<title id="title">SICAFIN</title><desc id="desc">Sistema de Cajas de Ahorro</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#25C6A4"/><stop offset="1" stop-color="#0B3D5C"/></linearGradient></defs>
+<rect x="14" y="16" width="148" height="148" rx="38" fill="url(#g)"/>
+<path d="M54 112c0-29 18-52 44-52 18 0 32 9 40 24l-24 10c-4-8-10-13-19-13-13 0-22 13-22 31 0 18 9 31 22 31 9 0 16-5 20-14l24 10c-8 16-23 25-42 25-26 0-43-23-43-52Z" fill="white"/>
+<path d="M88 42h22v100H88z" fill="white" opacity=".9"/>
+<circle cx="120" cy="54" r="8" fill="#E9B95E"/>
+<text x="190" y="87" fill="#0B2434" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="900" letter-spacing="-3">SICAFIN</text>
+<text x="193" y="124" fill="#607586" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="650">Sistema de Cajas de Ahorro</text>
+</svg>
